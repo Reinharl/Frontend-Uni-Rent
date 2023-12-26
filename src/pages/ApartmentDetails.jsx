@@ -2,7 +2,6 @@ import {useParams} from 'react-router-dom';
 import {useEffect, useState} from "react";
 import Navbar from "../components/NavbarAndFooter/Navbar.jsx";
 import Footer from "../components/NavbarAndFooter/Footer.jsx";
-import {Dialog} from "@headlessui/react";
 import Chat from "../components/Chat/Chat.jsx";
 
 function ApartmentDetails() {
